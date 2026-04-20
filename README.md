@@ -234,14 +234,4 @@ financial_dashboard.db            ← SQLite database with all aggregated tables
 financial_dashboard_data.xlsx     ← 10-sheet Excel file (Power BI data source)
 ```
 
----
-
-## 👤 Author
-
-**[Your Name]**  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
-
----
-
 ⭐ *If you found this project useful, please consider giving it a star — it helps others find it too!*
