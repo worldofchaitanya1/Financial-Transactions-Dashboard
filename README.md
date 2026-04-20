@@ -235,16 +235,18 @@ financial_dashboard_data.xlsx     ← 10-sheet Excel file (Power BI data source)
 ```
 ---
 
+---
+
 ## 📸 Dashboard Preview
 
 ### Page 1 — Executive KPIs
-![Executive KPIs]([images/page1_executive_kpis.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-1.png))
+![Executive KPIs](https://raw.githubusercontent.com/worldofchaitanya1/Financial-Transactions-Dashboard/main/Financial%20Dashboard-1.png)
 
 ### Page 2 — Fraud Analysis
-![Fraud Analysis]([images/page2_fraud_analysis.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-2.png))
+![Fraud Analysis](https://raw.githubusercontent.com/worldofchaitanya1/Financial-Transactions-Dashboard/main/Financial%20Dashboard-2.png)
 
 ### Page 3 — Customer Segmentation
-![Customer Segmentation]([images/page3_customer_segmentation.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-3.png))
+![Customer Segmentation](https://raw.githubusercontent.com/worldofchaitanya1/Financial-Transactions-Dashboard/main/Financial%20Dashboard-3.png)
 
 ### Page 4 — Time Trends
-![Time Trends]([images/page4_time_trends.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-4.png))
+![Time Trends](https://raw.githubusercontent.com/worldofchaitanya1/Financial-Transactions-Dashboard/main/Financial%20Dashboard-4.png)
