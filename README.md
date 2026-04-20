@@ -233,5 +233,18 @@ python step3_ml.py       # ML fraud scoring → Excel export
 financial_dashboard.db            ← SQLite database with all aggregated tables
 financial_dashboard_data.xlsx     ← 10-sheet Excel file (Power BI data source)
 ```
+---
 
-⭐ *If you found this project useful, please consider giving it a star — it helps others find it too!*
+## 📸 Dashboard Preview
+
+### Page 1 — Executive KPIs
+![Executive KPIs]([images/page1_executive_kpis.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-1.png))
+
+### Page 2 — Fraud Analysis
+![Fraud Analysis]([images/page2_fraud_analysis.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-2.png))
+
+### Page 3 — Customer Segmentation
+![Customer Segmentation]([images/page3_customer_segmentation.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-3.png))
+
+### Page 4 — Time Trends
+![Time Trends]([images/page4_time_trends.png](https://github.com/worldofchaitanya1/Financial-Transactions-Dashboard/blob/main/Financial%20Dashboard-4.png))
